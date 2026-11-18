@@ -3,7 +3,7 @@
 **Live dashboard: https://rphere.github.io/earnings-tone/**
 
 How does executive tone on earnings calls relate to the next day's stock price? This dashboard checks it for big tech
-companies (Apple, Microsoft, Alphabet, Amazon, Meta and Nvidia), from Q4 2023 to Q3 2026.
+companies (Apple, Microsoft, Alphabet, Amazon, Meta, Nvidia and Tesla), from Q4 2023 to Q3 2026.
 
 ## What it shows
 
